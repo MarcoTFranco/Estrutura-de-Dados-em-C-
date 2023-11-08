@@ -1,22 +1,7 @@
 /*
-
-Irei adicionar no README como utilizar o codigo.
-
-Exemplo de Entrada:
-i 3
-i 4
-i 2
-i 5
-i 1
-r 3
-o
-p
-f
-
-Exemplo de Saída:
-1/2 2/1 4/0 5/1 
-4/0 2/1 1/2 5/1
-
+*
+* ABB
+* by Marco Túlio, 2023
 */
 
 
