@@ -164,6 +164,7 @@ public:
         tabela = new lista[numPosicoes];
     }
 
+    // destrutor
     ~tabelaHash()
     {
         delete[] tabela;

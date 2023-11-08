@@ -94,7 +94,6 @@ void Tree::insere(int d)
     }
 }
 
-// método de busca auxiliar (retorna o nó), iterativo
 noh *Tree::minimoAux(noh *umNoh)
 {
     while (umNoh->esquerdo != NULL)
@@ -102,7 +101,6 @@ noh *Tree::minimoAux(noh *umNoh)
     return umNoh;
 }
 
-// método de busca auxiliar (retorna o nó), iterativo
 int Tree::minimo()
 {
     if (raiz == NULL)
